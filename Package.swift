@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "hello",
+    name: "demo-vapour-app",
     platforms: [
        .macOS(.v10_15)
     ],
